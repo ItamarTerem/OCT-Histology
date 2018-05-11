@@ -1,1 +1,1 @@
-# OCT-Histology
+# OCT-Histology project. Line recognition
